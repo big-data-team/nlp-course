@@ -11,4 +11,5 @@ scikit-learn==0.23.2
 scikit-plot==0.3.7
 spacy==2.3.5
 torch==1.7.1
+torchtext==0.5
 torchvision==0.8.2
