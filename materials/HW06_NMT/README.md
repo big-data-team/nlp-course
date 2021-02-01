@@ -1,2 +1,2 @@
 Acknowledgements
-Thanks to tilda and deephack teams for the data.
+Thanks to YSDA NLP course team for the provided data, who thanks tilda and deephack teams in their turn.
