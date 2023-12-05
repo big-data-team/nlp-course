@@ -7,13 +7,13 @@ See also Machine Learning course:
 
 # Environment Configuration
 
-1. Download [requirements.txt](requirements.txt)
+1. Download [requirements_transformers.txt](requirements_transformers.txt)
 2. Create environment:
 ```bash
 export env_name="bdt-nlp-course"
-conda create -n $env_name python=3.7
+conda create -n $env_name python=3.10
 conda activate $env_name
-conda install --file requirements.txt
+conda install --file requirements_transformers.txt
 ```
 
 See available conda environments with the help of:
