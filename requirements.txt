@@ -3,3 +3,7 @@ datasets==2.14.4
 transformers==4.24.0
 sentencepiece==0.1.99
 sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+langchain==0.0.348
+langchainhub==0.1.14
+accelerate==0.25.0
